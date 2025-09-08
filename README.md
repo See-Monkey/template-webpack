@@ -1,2 +1,2 @@
-# template-webpack
-Project Template - HTML CSS Javascript Webpack
+# todo
+The Odin Project - Javascript - To Do List
