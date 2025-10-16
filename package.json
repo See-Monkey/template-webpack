@@ -12,17 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/See-Monkey/todo.git"
+    "url": "git+https://github.com/See-Monkey/template-webpack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/See-Monkey/todo/issues"
+    "url": "https://github.com/See-Monkey/template-webpack/issues"
   },
-  "homepage": "https://github.com/See-Monkey/todo#readme",
+  "homepage": "https://github.com/See-Monkey/template-webpack#readme",
   "devDependencies": {
+    "@babel/core": "^7.28.4",
+    "@babel/preset-env": "^7.28.3",
     "@eslint/js": "^9.35.0",
+    "babel-jest": "^30.2.0",
     "css-loader": "^7.1.2",
     "eslint": "^9.35.0",
     "eslint-config-prettier": "^10.1.8",
